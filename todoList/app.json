@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/list/list",
+    "pages/add/add"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#666",
+    "navigationBarTitleText": "todoList",
+    "navigationBarTextStyle":"black"
+  }
+}
